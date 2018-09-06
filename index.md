@@ -2,15 +2,13 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Rohan Shahani's First CS193 Lab
+## Favorite Things About CS/Data Science
 
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- About 90% of the world's data was created in the past 2 years.
+- The act of going through all that data and seeing any trends is very exciting.
+- I am also a huge Atlanta Falcons fan.
 
 1. Numbered
 2. List
